@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "linux-cpp",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"fstream": "cpp",
+			"iostream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
